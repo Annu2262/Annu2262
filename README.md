@@ -83,15 +83,14 @@ Currently Pursuing MCA from TIMSCDR Mumbai. Proficient in programming languages 
 </tr>
 </table>
 
-## 🚀 Achievements
+<!-- ## 🚀 Achievements
 
 - 🎓 **Certified in Programming in Java** from [NPTEL](https://archive.nptel.ac.in/content/noc/NOC24/SEM1/Ecertificates/106/noc24-cs43/Course/NPTEL24CS43S96240041130403993.pdf)
-- 📊 **Data Visualization** 
+- 📊 **Project Management** -->
 
 ## 🎨 Hobbies / Interests
 
-- 📚 Reading Self-Help Books: Interested in personal growth and development.
-- 🌐 Tech Blogs: Always on the lookout for the latest trends and innovations in tech.
-- 🧘 Spirituality: Engaged in exploring spiritual practices and beliefs.
-- ✍️ Writing: Passionate about expressing thoughts and creativity through writing.
-- ✈️ Traveling: Enjoys exploring new places and cultures.
+- 📚 **Reading Self-Help Books**: Interested in personal growth and development.
+- 🌐 **Tech Blogs**: Always on the lookout for the latest trends and innovations in tech.
+- 🧘 **Spirituality**: Engaged in exploring spiritual practices and beliefs.
+- 🍳 **Cooking**: Enjoys experimenting with new recipes and cuisines.
