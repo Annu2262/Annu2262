@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Annapurna Gupta</h1>
 <h3 align="center">Currently Pursuing MCA from TIMSCDR Mumbai. Proficient in programming languages such as Java, C#, Asp.Net and DBMS with MySQL and SQL Server Managment Studio </h3>
 
-- 🔭I have worked on ** I’m currently working on enhancing my skills.**
+- 🔭**I’m currently working on enhancing my skills.**
 
 - 🌱 I’m currently learning **Data Structures and Algorithm**
 
