@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Annapurna Gupta</h1>
-<h3 align="center">Currently Pursuing MCA from TIMSCDR Mumbai. Proficient in programming languages such as Java, C#, ASP.NET, and DBMS with MySQL and SQL Server Management Studio.</h3>
+Currently Pursuing MCA from TIMSCDR Mumbai. Proficient in programming languages such as Java, C#, ASP.NET, and DBMS with MySQL and SQL Server Management Studio.
 <div align="right">
   
 ![Profile Views](https://visitcount.itsvg.in/api?id=Annu2262&icon=8&color=12)
@@ -51,6 +51,7 @@
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 </p>
 </div>
+
 ## 🏆 Highlighted Projects
 
 <div align="center">
