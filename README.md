@@ -34,7 +34,7 @@ Currently Pursuing MCA from TIMSCDR Mumbai. Proficient in programming languages 
 
 </div>
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 <div>
   
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -90,7 +90,7 @@ Currently Pursuing MCA from TIMSCDR Mumbai. Proficient in programming languages 
 
 ## 🎨 Hobbies / Interests
 
-- 📚 **Reading Self-Help Books**: Interested in personal growth and development.
+- 🏅 **Sports**: Enjoys participating in and following various sports activities.
 - 🌐 **Tech Blogs**: Always on the lookout for the latest trends and innovations in tech.
 - 🧘 **Spirituality**: Engaged in exploring spiritual practices and beliefs.
 - 🍳 **Cooking**: Enjoys experimenting with new recipes and cuisines.
