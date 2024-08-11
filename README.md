@@ -58,7 +58,7 @@ Currently Pursuing MCA from TIMSCDR Mumbai. Proficient in programming languages 
 
 |                      |                      |
 |:--------------------:|:--------------------:|
-| [![Insta-Fashion](https://github-readme-stats.vercel.app/api/pin/?username=Annu2262&repo=InstaFashionShoppingWebsite)](https://github.com/Annu2262/InstaFashionShoppingWebsite) | [![SPA-Website](https://github-readme-stats.vercel.app/api/pin/?username=Sanjeevani09&repo=Single-Page-Application-Website)](https://github.com/Sanjeevani09/Single-Page-Application-Website) |
+| [![Insta-Fashion](https://github-readme-stats.vercel.app/api/pin/?username=Annu2262&repo=InstaFashionShoppingWebsite)](https://github.com/Annu2262/InstaFashionShoppingWebsite) | [![SPA-Website](https://github-readme-stats.vercel.app/api/pin/?username=Annu2262&repo=Single-Page-Application-Website)](https://github.com/Sanjeevani09/Single-Page-Application-Website) |
 
 </div>
 
