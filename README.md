@@ -29,7 +29,7 @@ Currently Pursuing MCA from TIMSCDR Mumbai. Proficient in programming languages 
 [![Email](https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:annapurnag2262@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/annapurnagupta22)
 [![CodeChef](https://img.shields.io/badge/CodeChef-%23F5A300.svg?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/annapurnag2262)
-[![HackerRank](https://img.shields.io/badge/HackerRank-darkgreen.svg?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/annapurnag22)
+[![HackerRank](https://img.shields.io/badge/HackerRank-darkgreen.svg?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/annapurnag2262)
 [![Leetcode](https://img.shields.io/badge/Leetcode-%23F7DF1C.svg?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Annu2262/)
 
 </div>
